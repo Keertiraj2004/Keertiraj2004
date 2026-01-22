@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Keertiraj Kamble</h1>
+<h1 align="center">Hi, I'm Keertiraj Kamble</h1>
 <h3 align="center">A Final Year Student Of AI-DS | Aspiring Data Scientist | AI/ML Engineer</h3>
 
 - 🔭 I’m currently working on **Real-Time Image Animation Using Deep Learning**
