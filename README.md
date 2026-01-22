@@ -1,17 +1,9 @@
 <h1 align="center">Hi, I'm Keertiraj Kamble</h1>
 <h3 align="center">A Final Year Student Of AI-DS | Aspiring Data Scientist | AI/ML Engineer</h3>
 
-- 🔭 I’m currently working on **Real-Time Image Animation Using Deep Learning**
-
 - 🌱 I’m currently learning **Machine Learning Deep Learning & Computer Vision Generative AI**
 
-- 💬 Ask me about **Python AI / ML / Deep Learning , Graphics Designer Canva , Video Editor**
-
-- 📫 How to reach me **keertirajkamble023@gmail.com,https://www.linkedin.com/in/keertiraj-kamble-738875268**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WHoiNFwZftq3fWRxEJLb5EXkJ6-cW6UH/view?usp=drive_link](https://drive.google.com/file/d/1WHoiNFwZftq3fWRxEJLb5EXkJ6-cW6UH/view?usp=drive_link)
-
-- ⚡ Fun fact **I train models to learn, adapt, and improve — just like me.**
+- 📫 How to reach me **keertirajkamble023@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
