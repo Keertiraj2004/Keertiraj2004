@@ -1,5 +1,5 @@
 # About Me:
-🎓 Final Year B.E. in Artificial Intelligence & Data Science, focused on applied AI solutions<br><br>🔭 Developed a Real-Time Image Animation system powered by Deep Learning models<br><br>🤖 Developing intelligent Retrieval-Augmented Generation (RAG) chatbots using LangChain and OpenAI<br><br>💡 Passionate about solving real-world problems using Machine Learning, Deep Learning, and Generative AI
+🎓 Final Year B.E. in Artificial Intelligence & Data Science, focused on applied AI solutions<br><br>🔭 Developed a Real-Time Image Animation system powered by Deep Learning models<br><br>🤖 Developing intelligent Retrieval-Augmented Generation (RAG) chatbots using LangChain and OpenAI<br><br>💡 Passionate about solving real-world problems using Machine Learning, Deep Learning, and Generative 
 
 
 ## 🌐 Socials:
