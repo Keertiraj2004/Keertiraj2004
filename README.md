@@ -19,7 +19,7 @@
 | 🔍 | Detail |
 |---|---|
 | 👩‍💻 **Name**         | Keertiraj Kamble |
-| 🎓 **Education**    | Final Year B.E. · AI & Data Science |
+| 🎓 **Education**    | Final Year B.E. in AI & Data Science |
 | 🤖 **Interests**    | ML · Deep Learning · Generative AI |
 | 🛠️ **Tech Stack**   | Python · TensorFlow · PyTorch · Sklearn |
 | 🔭 **Building**     | Intelligent ML & AI systems |
