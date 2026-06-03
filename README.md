@@ -83,7 +83,7 @@
 ---
 
 ## 🚀 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Keertiraj2004&limit=5&theme=radical&combine_all_yearly_contributions=true)
+[![](https://github-contributor-stats.vercel.app/api?username=Keertiraj2004&limit=5&theme=radical&combine_all_yearly_contributions=true)](https://github.com/Keertiraj2004)
 
 ---
 
@@ -91,9 +91,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-
 ## 👀 Visitor Count
-![](https://visitcount.itsvg.in/api?id=Keertiraj2004&icon=0&color=0)
+![](https://komarev.com/ghpvc/?username=Keertiraj2004&color=blueviolet&style=flat)
 
 
 <div align="center">
