@@ -76,11 +76,8 @@
 
 ---
 # 📊 GitHub Stats:
-
 ![](https://github-readme-stats.vercel.app/api?username=Keertiraj2004&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Keertiraj2004&theme=radical&hide_border=false)
-
+![](https://streak-stats.demolab.com/?user=Keertiraj2004&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keertiraj2004&theme=radical&hide_border=false&layout=compact)
 
 ---
