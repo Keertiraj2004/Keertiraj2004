@@ -75,10 +75,16 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Keertiraj2004&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=Keertiraj2004&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keertiraj2004&theme=radical&hide_border=false&layout=compact)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Keertiraj2004&show_icons=true&theme=radical&hide_border=false&count_private=false&cache_seconds=86400" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keertiraj2004&layout=compact&theme=radical&hide_border=false&cache_seconds=86400" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Keertiraj2004&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ---
 
