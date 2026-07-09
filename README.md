@@ -78,12 +78,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnanyaMangaj&show_icons=true&theme=radical&hide_border=false&count_private=false&cache_seconds=86400" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaMangaj&layout=compact&theme=radical&hide_border=false&cache_seconds=86400" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Keertiraj2004&show_icons=true&theme=radical&hide_border=false&count_private=false&cache_seconds=86400" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keertiraj2004&layout=compact&theme=radical&hide_border=false&cache_seconds=86400" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AnanyaMangaj&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Keertiraj2004&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 ---
 
