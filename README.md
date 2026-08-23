@@ -27,7 +27,7 @@
 | 📫 **Reach me**     | omkarkeertiraj02@gmail.com |
 | ⚡ **Fun fact**     | I train models & make chai ☕ |
 
----
+--- 
 
 ## 🌐 Connect With Me
 
