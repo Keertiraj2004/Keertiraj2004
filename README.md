@@ -10,7 +10,7 @@
 
 ### 🌌 `> Turning raw data into intelligent decisions_`
 
-</div> 
+</div>
 
 ---
 
