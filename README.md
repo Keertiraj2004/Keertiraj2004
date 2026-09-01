@@ -8,7 +8,7 @@
 
 <div align="center">  
 
-### 🌌 `> Turning raw data into intelligent decisions_`
+### 🌌 `> Turning raw data
 
 </div> 
 
